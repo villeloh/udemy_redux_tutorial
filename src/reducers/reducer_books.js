@@ -23,9 +23,9 @@ export default function() {
 
     return [
 
-        {title: 'Huu'},
-        {title: 'Hii'},
-        {title: 'Haa'},
-        {title: 'Hoo'}
+        {title: 'Huu', pages: 100},
+        {title: 'Hii', pages: 20},
+        {title: 'Haa', pages: 120},
+        {title: 'Hoo', pages: 200}
     ];
 }
